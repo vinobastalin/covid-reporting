@@ -1,0 +1,9 @@
+{
+	"name": "adf-spotify-pct",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a0443d0-ff0e-4ee2-8b97-0f3d7f71ce35",
+		"tenantId": "63ce7d59-2f3e-42cd-a8cc-be764cff5eb6"
+	}
+}
